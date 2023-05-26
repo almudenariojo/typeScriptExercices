@@ -1,1 +1,2 @@
-# typeScriptExercices
+# ejerciciosTwenix
+Ejercicios de typeScript
